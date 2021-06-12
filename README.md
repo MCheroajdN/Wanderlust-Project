@@ -24,5 +24,7 @@ With the resources available and studies from:
 ## Status
 Project is completed as required.
 
+Github pages : https://mcheroajdn.github.io/Wanderlust-Project/
+
 ## Author/Contact
 * M. Christopher
